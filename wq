@@ -1,0 +1,26 @@
+Merge branch 'main' of https://github.com/linyuhua443/testnet-manager-dapp
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please run
+#	git update-ref -d MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	new file:   app/page.js
+#	new file:   components/ui/button.js
+#	new file:   components/ui/card.js
+#	new file:   components/ui/input.js
+#	new file:   components/ui/textarea.js
+#

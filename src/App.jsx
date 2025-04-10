@@ -1,10 +1,10 @@
 'use client';
+import { Card } from './components/ui/card.jsx';
+import { Input } from './components/ui/input.jsx';
+import { Textarea } from './components/ui/textarea.jsx';
+import { Button } from './components/ui/button.jsx';
 
-import { useState } from 'react';
-import { Card } from '../components/ui/card';
-import { Input } from '../components/ui/input';
-import { Textarea } from '../components/ui/textarea';
-import { Button } from '../components/ui/button';
+
 
 export default function Home() {
   const [projects, setProjects] = useState([]);
